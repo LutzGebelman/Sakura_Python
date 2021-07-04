@@ -1,6 +1,6 @@
 import discord, os, random, shityshit, asyncio, youtube_dl, discord_music
 from discord.ext import commands, tasks
-token = 'Mzk1NjE4OTMxOTMyNTI4Njcx.WkPO1w.GcVjycw18G9nXM1lHYiy-KWOrys'
+token = 'token here'
 i = 0
 bot = commands.Bot(command_prefix = 's!')
 
